@@ -5,11 +5,11 @@ This project analyzes Netflix movie data to extract insights into movie trends, 
 
 ## Features
 - **Data Cleaning and Preprocessing**:
-  - Converted `Release_Date` to datetime format.
-  - Removed whitespaces and unnecessary characters from `Genre`.
-  - Dropped unneeded columns (`Overview`, `Original_Language`, `Poster_Url`).
-  - Categorized `Vote_Average` for better classification.
-  - Transformed `Genre` into **First Normal Form (1NF)**.
+  - Converted Release_Date to datetime format.
+  - Removed whitespaces and unnecessary characters from Genre.
+  - Dropped unneeded columns (Overview, Original_Language, Poster_Url).
+  - Categorized Vote_Average for better classification.
+  - Transformed Genre into **First Normal Form (1NF)**.
 
 - **Exploratory Data Analysis (EDA)**:
   - Identified trends in movie ratings and popularity.
